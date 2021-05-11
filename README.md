@@ -10,4 +10,4 @@
 -->
 - 📫 How to reach me: <github.com/qwertyuiopcode>
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a programmer,but I write 10k word!
+- ⚡ Fun fact: I'm a programmer,but I write 12k word!
