@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=qwertyuiopcode)
+![](https://github-readme-stats.vercel.app/api?username=qwertyuiopcode&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on #famousliterature
